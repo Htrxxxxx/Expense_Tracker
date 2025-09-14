@@ -9,7 +9,7 @@
 - Uses simple serialization / deserialization (convert Expense ↔ line) for persistent storage
 
 ## Build & Run : 
-g++ -std=c++17 expense_tracker.cpp -o expense_tracker
+g++ -std=c++17 Code.cpp -o expense_tracker
 ./expense_tracker        # (Windows: expense_tracker.exe)
 
 ## Storage : 
